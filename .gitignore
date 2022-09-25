@@ -1,5 +1,5 @@
 # large json file
-mini_sparkify_event_data.json
+/mini_sparkify_event_data.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
