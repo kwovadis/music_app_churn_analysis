@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # large json file
 ./mini_sparkify_event_data.json
 
+=======
+>>>>>>> 1cf0850c42697eb8774d72ddb146a5c68f8de713
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
