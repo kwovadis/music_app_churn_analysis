@@ -9,6 +9,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Other
+./notebook_sparkify.ipynb
+./notebook.ipynb
+blogpost
+
 # C extensions
 *.so
 

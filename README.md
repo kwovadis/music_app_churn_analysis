@@ -1,6 +1,11 @@
-# music_app_churn_analysis
-<<<<<<< HEAD
-Churn analysis of music app users
-=======
-Analysis of churn in a music app using spark
->>>>>>> 1cf0850c42697eb8774d72ddb146a5c68f8de713
+# Music app churn analysis
+
+## Description:
+
+### 
+
+A readme file contains relevant information about the files in a project's directory. A readme should provide just enough context to get other users up and running with your code. Keep in mind, we are writing README for other users.
+
+Start with a title and a description: be sure to capture the spirit of your project clearly and concisely. This will help frame the reader's experience when going through your documentation.
+Next, include any information that is absolutely necessary for understanding your code. This may be dependencies on other software or libraries, installation instructions, common usage, or known bugs.
+You can also add other information, such as about the author and software license
