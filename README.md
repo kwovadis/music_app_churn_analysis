@@ -1,11 +1,23 @@
-# Music app churn analysis
+### Music app churn analysis
 
-## Description:
+#### Description
+Based on a dataset from the Sparkify music streaming app (like Spotify), analyze the data and identify which users are likely to churn.
 
-### 
+#### Necessary information
+The libraries which are necessary to run the code are: 
+- pyspark.sql
+- pyspark.ml
+- py4j.java_gateway 
+- numpy
+- pandas
+- matplotlib
+- time
+- datetime
 
-A readme file contains relevant information about the files in a project's directory. A readme should provide just enough context to get other users up and running with your code. Keep in mind, we are writing README for other users.
+#### Known bugs
+The churn prediction machine learning models need more tunings since the fit scores seem ttoo good to be true!
 
-Start with a title and a description: be sure to capture the spirit of your project clearly and concisely. This will help frame the reader's experience when going through your documentation.
-Next, include any information that is absolutely necessary for understanding your code. This may be dependencies on other software or libraries, installation instructions, common usage, or known bugs.
-You can also add other information, such as about the author and software license
+
+Blogpost: https://medium.com/@KwoVadis/sparkify-music-app-churn-analysis-93a4fe34c2e8
+
+(C) MIT License
